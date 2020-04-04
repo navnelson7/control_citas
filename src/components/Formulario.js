@@ -60,7 +60,7 @@ const Formulario = ({crearCita}) => {
                     type="text"
                     name="mascota"
                     className="u-full-width"
-                    placeholder= "Nombres de Macota"
+                    placeholder= "Nombre de Mascota"
                     onChange={actualizarState}
                     value={mascota}
                 />
