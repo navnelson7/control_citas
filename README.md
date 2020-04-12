@@ -18,3 +18,7 @@ npm install
 ```
 npm start
 ```
+## Para ver una demo vista el siguiente enlace.
+```
+https://angry-booth-727631.netlify.com/
+```
