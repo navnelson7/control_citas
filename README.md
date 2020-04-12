@@ -24,3 +24,4 @@ npm start
 
 ## Construido con:
 * [Create React App](https://create-react-app.dev/)
+* [uuid](https://www.npmjs.com/package/uuid) - Para generar un id  que se utiliza para identificar los objetos que pasan al componente por medio del hooks
