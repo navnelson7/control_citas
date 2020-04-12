@@ -23,4 +23,4 @@ npm start
 
 
 ## Construido con:
-*[Create React App](https://create-react-app.dev/)
+* [Create React App](https://create-react-app.dev/)
